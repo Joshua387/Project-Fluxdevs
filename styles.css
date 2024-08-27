@@ -1196,7 +1196,7 @@ footer {
 
   .logo-2 {
     display: block;
-    width: 58%;
+    width: 60%;
     margin-bottom: 8px;
   }
 
@@ -1265,7 +1265,7 @@ footer {
   }
 
   .contact-1 {
-    display: block;
+    /* display: block; */
     display: flex;
   }
   .contact-1 button {
@@ -1296,8 +1296,8 @@ footer {
     width: 70px;
     position: absolute;
     bottom: 0;
-    left: 100px;
-    width: 90px;
+    left: 70px;
+    width: 75px;
   }
 
   .light img {
@@ -1314,19 +1314,19 @@ footer {
   }
 
   .box-1 h1 {
-    font-size: 38px;
+    font-size: 28px;
     font-weight: 700;
     color: #e7ebef;
-    line-height: 63px;
-    margin: 30px 0 0;
+    line-height: 28px;
+    margin: 30px 0 10px;
   }
 
   .box-1 p {
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 600;
     color: #d8d5f6;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 28px;
     line-height: 30px;
     /* width: 86%; */
   }
@@ -1336,7 +1336,7 @@ footer {
     color: #fff;
     font-size: 23px;
     letter-spacing: 1px;
-    padding: 15px 40px;
+    padding: 12px 25px;
     margin: 0 auto 20%;
     border: none;
     border-radius: 10px;
@@ -1345,9 +1345,9 @@ footer {
 
   .bulb {
     position: absolute;
-    top: 39%;
+    top: 32%;
     right: 9%;
-    width: 90px;
+    width: 80px;
   }
 
   .bulb img {
@@ -1397,11 +1397,11 @@ footer {
   }
 
   .container-3 {
-    padding: 20px 90px;
+    padding: 18px 40px;
   }
 
   .container-3 h1 {
-    font-size: 48px;
+    font-size: 40px;
     font-weight: 700;
     color: #fff;
     text-align: center;
@@ -1412,7 +1412,7 @@ footer {
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-between;
-    line-height: 28px;
+    line-height: 24px;
     margin-top: 40px;
     gap: 30px;
   }
@@ -1422,7 +1422,7 @@ footer {
     color: #d8d5f6;
     font-size: 20px;
     font-weight: 700;
-    padding: 50px 80px;
+    padding: 25px 20px;
     border-radius: 18px;
     text-align: center;
     width: 100%;
@@ -1433,7 +1433,7 @@ footer {
     color: #d8d5f6;
     font-size: 20px;
     font-weight: 600;
-    padding: 50px 80px;
+    padding: 25px 20px;
     /* margin-top: 30px; */
     border-radius: 18px;
     text-align: center;
@@ -1445,7 +1445,7 @@ footer {
     color: #d8d5f6;
     font-size: 20px;
     font-weight: 600;
-    padding: 50px 80px;
+    padding: 25px 20px;
     /* margin-top: 30px; */
     border-radius: 18px;
     text-align: center;
@@ -1453,8 +1453,8 @@ footer {
   }
 
   .row-img-1 {
-    width: 80px;
-    margin: 35px auto;
+    width: 70px;
+    margin: 20px auto;
   }
 
   .row-img-1 img {
@@ -1462,8 +1462,8 @@ footer {
   }
 
   .row-img-2 {
-    width: 100px;
-    margin: 15px auto;
+    width: 90px;
+    margin: 10px auto;
   }
 
   .row-img-2 img {
@@ -1471,8 +1471,8 @@ footer {
   }
 
   .row-img-3 {
-    width: 70px;
-    margin: 40px auto;
+    width: 60px;
+    margin: 30px auto;
   }
 
   .row-img-3 img {
@@ -1485,7 +1485,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    padding: 20px 15%;
+    padding: 20px 5%;
   }
 
   .con-col-1 {
@@ -1494,7 +1494,7 @@ footer {
   }
 
   .con-col-1 h2 {
-    font-size: 45px;
+    font-size: 35px;
     font-weight: 600;
     color: #fff;
   }
@@ -1515,16 +1515,16 @@ footer {
     flex-basis: 100%;
     background: #1d1d1d;
     border-radius: 39px;
-    padding: 35px 35px;
-    margin: 80px 20px;
+    padding: 25px;
+    margin: 50px 20px;
   }
 
   .con-col-2 h2 {
-    font-size: 30px;
+    font-size: 20px;
     color: #ffb012;
     font-weight: 700;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .box-col-2 div i {
@@ -1538,35 +1538,34 @@ footer {
   .box-col-2 div {
     display: flex;
     align-items: center;
-    margin-top: 30px;
     gap: 20px;
-    margin: 40px 0;
+    margin: 20px 0;
     font-size: 18px;
     font-weight: 500;
     color: #fff;
   }
 
   .con-col-2 p {
-    font-size: 25px;
+    font-size: 18px;
     font-weight: 500;
     color: #d8d5f6;
     text-align: left;
   }
 
   .box-3 h2 {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700px;
     color: #c2cfeb;
     text-align: center;
-    margin: 80px 0 30px;
+    margin: 0 0 30px;
   }
 
   .box-3 p {
     color: #c2cfeb;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 500;
     text-align: center;
-    line-height: 35px;
+    line-height: 28px;
     margin: 10px 0 30px;
   }
 
@@ -1578,7 +1577,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 50px 80px 30px;
+    margin: 50px 30px 30px;
     /* gap: 20px; */
   }
 
@@ -1592,12 +1591,7 @@ footer {
 
   .box_4 {
     display: block;
-    width: 105%;
-  }
-
-  .box_4 {
-    display: block;
-    widows: 100%;
+    width: 100%;
   }
 
   .box_3 {
@@ -1605,7 +1599,7 @@ footer {
   }
 
   .box-4 p {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     color: #d8d5f6;
     margin-top: 20px;
@@ -1642,7 +1636,7 @@ footer {
     display: block;
     align-items: center;
     justify-content: space-between;
-    padding: 100px 90px;
+    padding: 30px 15px;
   }
 
   .row-2 {
@@ -1650,18 +1644,49 @@ footer {
   }
 
   .container-6 h2 {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 700;
     color: #cccbcb;
-    line-height: 60px;
+    line-height: 35px;
     margin-bottom: 50px;
   }
 
   .row-3 {
     width: 100%;
-    padding: 50px 84px 10px 0;
+    padding: 30px 20px 10px 0;
     position: relative;
-    margin: 40px 0 40px 40px;
+    margin: 40px 0 30px;
+  }
+
+  .solution {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25px;
+    padding: 50px 30px;
+  }
+
+  .con-offer-1 {
+    position: absolute;
+    top: 2px;
+    left: 0;
+  }
+
+  .con-offer-2 {
+    position: absolute;
+    bottom: -15px;
+    right: 20px;
+  }
+
+  .con-offer-3 {
+    position: absolute;
+    bottom: -75px;
+    left: -10px;
+  }
+
+  .con-offer-4 {
+    position: absolute;
+    bottom: -140px;
+    right: 10px;
   }
 
   .container-7 {
@@ -1670,14 +1695,14 @@ footer {
   }
 
   .container-7 h4 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #fff;
-    margin-bottom: 10px;
+    margin: 130px 10px 30px;
   }
 
   .container-7 h4 span {
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 600;
   }
 
@@ -1690,12 +1715,12 @@ footer {
   .container-7 button {
     border: none;
     border-radius: 7px;
-    padding: 8px 15px;
+    padding: 8px 10px;
     background: #f7a400;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
-    margin: 0 20px;
+    margin: 0 8px;
     cursor: pointer;
   }
 
@@ -1706,10 +1731,8 @@ footer {
 
   .footer {
     display: block;
-    justify-content: space-between;
-    align-items: center;
     margin: 30px 0;
-    position: relative;
+    /* position: relative; */
   }
 
   .container-8 {
@@ -1723,9 +1746,9 @@ footer {
   }
 
   .container-8 div p {
-    font-size: 20px;
+    font-size: 18px;
     color: #fafafa;
-    margin: 0 30px;
+    margin: 0 10px;
   }
 
   .img-buil {
@@ -1809,12 +1832,12 @@ footer {
   }
 
   .footer-text p {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
     color: #e7ebef;
   }
 
   .footer-text p:nth-child(2) {
-    margin-top: 20px;
+    margin-top: 10px;
   }
 }
