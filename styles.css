@@ -661,6 +661,9 @@ footer {
 .img_1 {
   display: none;
 }
+.img_1 img {
+  display: none;
+}
 
 .img-buil img {
   width: 100%;
@@ -1270,7 +1273,7 @@ footer {
     /* height: 48px; */
     border-radius: 10px;
     border: none;
-    padding: 15px ;
+    padding: 15px;
     background: #4144bd;
     color: #fff;
     font-weight: 500;
@@ -1771,7 +1774,7 @@ footer {
     font-size: 22px;
     font-weight: 700;
     color: #e7ebef;
-    margin:0 0 25px;
+    margin: 0 0 25px;
   }
 
   .box-7 {
@@ -1784,7 +1787,7 @@ footer {
   .box-7 p {
     font-size: 18px;
     color: #e7ebef;
-    margin:  0 15px;
+    margin: 0 15px;
   }
 
   .con-images {
@@ -1802,7 +1805,7 @@ footer {
 
   .footer-text {
     display: block;
-   text-align: center;
+    text-align: center;
   }
 
   .footer-text p {
